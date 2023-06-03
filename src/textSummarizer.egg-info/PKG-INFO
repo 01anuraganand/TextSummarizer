@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: Light weight python package for text summarization
+Home-page: https://github.com/01anuraganand/TextSummarizer
+Author: 01anuraganand
+Author-email: anuraganand7618@gmail.com
+Project-URL: Bug Tracker, https://github.com/01anuraganand/TextSummarizer/issues
+License-File: LICENSE
+
+# TextSummarizer
