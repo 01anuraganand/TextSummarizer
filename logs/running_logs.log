@@ -61,3 +61,7 @@
 [2023-07-02 16:29:05,450:INFO common : yaml file: params.yaml loaded successfully]
 [2023-07-02 16:29:05,452:INFO common : created directory at : artifacts]
 [2023-07-02 16:29:05,454:INFO common : created directory at : artifacts/data_ingestion]
+[2023-07-02 16:35:45,795:INFO common : yaml file: config\config.yaml loaded successfully]
+[2023-07-02 16:35:45,800:INFO common : yaml file: params.yaml loaded successfully]
+[2023-07-02 16:35:45,801:INFO common : created directory at : artifacts]
+[2023-07-02 16:35:45,803:INFO common : created directory at : artifacts/data_ingestion]
