@@ -30,7 +30,7 @@ list_file = [
 ]
 
 for filepath in list_file:
-    filepath = Path(filepath)
+    filepath = Path(filepath) # handle the path for environment dependency 
     filedir, filename = os.path.split(filepath)
     if filedir != "":
         os.makedirs(filedir, exist_ok=True)

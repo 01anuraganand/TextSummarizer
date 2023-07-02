@@ -13,7 +13,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="Light weight python package for text summarization",
+    description="Python package for text Spipummarization",
     long_description=long_description,
     long_description_content="text/makrdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
